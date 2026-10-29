@@ -2,35 +2,39 @@
 
 **Independent Software Development | CAD · Automation · Developer Tools**
 
-Johnny Digital Works is an independent software development project focused on building practical applications, developer tools and intelligent systems.
+Johnny Digital Works is an independent software development initiative focused on building practical applications, developer tools and intelligent systems.
 
-The goal is straightforward: create software that solves real problems, remains accessible and gives users more control over their work.
+The goal is simple: create software that solves real problems, remains accessible and gives users more control over their work.
 
 ## Current Projects
 
-**Agent Optimizer** *(Coming Soon)*
+### Agent Optimizer
 
-A modular development and workflow optimization system designed to support complex software projects.
+**Coming Soon**
 
-Built around a structured architecture with clearly separated components, the system focuses on reliability, maintainability and consistent results.
+A new development tool currently in progress.
 
-More information will be released as development progresses.
+Further details will be shared closer to release.
 
-**GasthofPilot**
+### CADPilot
 
-A back-office management solution for hospitality businesses, focusing on everyday administrative tasks and streamlined workflows.
+**Coming Soon**
 
-**SellerPilot**
+An independent software project currently in early development.
+
+More information will be announced when the time is right.
+
+### GasthofPilot
+
+A back-office management solution for hospitality businesses, focused on everyday administrative tasks and more efficient workflows.
+
+### SellerPilot
 
 Tools for e-commerce operations, including listing management, product research and sales analysis.
 
-**CADPilot**
+### NaturalCode
 
-Coming soon....
-
-**NaturalCode**
-
-An experimental programming environment exploring a more intuitive approach to writing and understanding code.
+An experimental programming environment exploring more intuitive ways to write, understand and work with code.
 
 ## Development Philosophy
 
@@ -44,7 +48,3 @@ Projects are developed independently, tested incrementally and improved through 
 
 **Johnny Digital Works**
 *Independent development. Practical solutions. Built with purpose.*
-👋
-
-
--
