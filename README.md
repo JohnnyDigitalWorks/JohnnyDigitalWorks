@@ -26,7 +26,7 @@ Tools for e-commerce operations, including listing management, product research 
 
 **CADPilot**
 
-An accessible CAD/CAM environment combining practical design tools with integrated learning features.
+Coming soon....
 
 **NaturalCode**
 
